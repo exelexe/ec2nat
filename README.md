@@ -1,4 +1,4 @@
-nat Cookbook
+ec2nat Cookbook
 ============
 Create amazon VPC NAT instance.
 
